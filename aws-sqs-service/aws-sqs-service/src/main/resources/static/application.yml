@@ -1,0 +1,6 @@
+aws:
+  sqs:
+    queue-name: "https://sqs.sa-east-1.amazonaws.com/761018860661/minha-fila"
+
+
+
