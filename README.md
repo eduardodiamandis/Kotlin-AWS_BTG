@@ -1,2 +1,2 @@
 # Kotlin-AWS_BTG
- construir um serviço simples utilizando o framework spring boot em conjunto com o serviço de fila da Amazon, Aws SQS, que recebe e entrega mensagens de filas.
+ Construir um serviço simples utilizando o framework spring boot em conjunto com o serviço de fila da Amazon, Aws SQS, que recebe e entrega mensagens de filas.
